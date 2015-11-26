@@ -176,7 +176,9 @@ Portions of this protocol are modified from Pacific Biosciences protocol # 001-2
 * 2x SYBR Green master mix (e.g., Qiagen catalog number 204143 or ThermoFisher Scientific catalog number A25780)
 * Taxon-specific primers
 * DNA standards
+
 	For host quantification, standards can be created by performing a dilution series (i.e., 10ng/µl, 1ng/µl, 0.1ng/µl, 0.01ng/µl) of high-quality gDNA (such as blood or liver DNA) from a suitable taxon.
+
 * qPCR instrument
 
 1. Run samples and standards at least in duplicate. We also recommend running a positive and negative control with each set of quantifications.
