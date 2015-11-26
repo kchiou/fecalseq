@@ -70,7 +70,7 @@ Portions of this protocol are modified from the NEBNext Microbiome DNA Enrichmen
 
 ## Capture methylated host DNA
 
-Since reaction volumes are well under 100 µl, multiple enrichment reactions can be processed together in a microplate, with pipetting steps conducted using a multichannel pipettor. Compatible rotating mixers and magnetic separators would also be required. Here, we proceed to describe the capture procedure using a 1.5 µl tube.
+Since reaction volumes are well under 100 µl, multiple enrichment reactions can be processed together in a microplate, with pipetting steps conducted using a multichannel pipettor. Compatible rotating mixers and magnetic separators would also be required. Here, we proceed to describe the capture procedure using a 1.5 ml tube.
 
 The total volume of the capture reaction is an important consideration. We have observed decreased DNA binding efficiency when the concentration of MBD beads or DNA in the capture reaction is low. We therefore recommend maintaining a total reaction volume of approximately 40 µl, as we have experienced consistent success with this volume even when adding as little as 1 µl of MBD beads. Decreasing the reaction volume may result in decreased efficacy of rotational mixing. It is a good idea to keep the volume of all reactions consistent as this facilitates processing of many samples and, if DNA amounts and bead volumes are kept consistent, serves as a control for the effects of bead or DNA concentration on enrichment efficiency. Our subsequent procedures assume a reaction volume of 40 µl (not including MBD beads). If using other reaction volumes, pay particular attention to notes following each step in this section.
 
