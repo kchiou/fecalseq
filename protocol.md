@@ -74,7 +74,7 @@ Since reaction volumes are well under 100 µl, multiple enrichment reactions can
 
 The total volume of the capture reaction is an important consideration. We have observed decreased DNA binding efficiency when the concentration of MBD beads or DNA in the capture reaction is low. We therefore recommend maintaining a total reaction volume of approximately 40 µl, as we have experienced consistent success with this volume even when adding as little as 1 µl of MBD beads. Decreasing the reaction volume may result in decreased efficacy of rotational mixing. It is a good idea to keep the volume of all reactions consistent as this facilitates processing of many samples and, if DNA amounts and bead volumes are kept consistent, serves as a control for the effects of bead or DNA concentration on enrichment efficiency. Our subsequent procedures assume a reaction volume of 40 µl (not including MBD beads). If using other reaction volumes, pay particular attention to notes following each step in this section.
 
-16. Aliquot 8 µl of 5x bind/wash buffer to a 1.5 µl microcentrifuge tube
+16. Aliquot 8 µl of 5x bind/wash buffer to a 1.5 ml microcentrifuge tube
 
 	For reaction volumes other than 40 µl, tune the volume of 5x bind/wash buffer to maintain 1x concentration and adjust accordingly the volume of DNase-free water added in step 17. The volume of MBD beads should be excluded from this calculation as prepared MBD beads are already at 1x concentration.
 
@@ -154,7 +154,7 @@ Portions of this protocol are modified from Pacific Biosciences protocol # 001-2
 
 6. Wash beads with freshly prepared 70% ethanol. Wait 1 minute, then pipette and discard the ethanol.
 
-	Use a sufficient volume of 70% ethanol to completely cover the bead pellet (e.g., 100 µl for microplates and 400 µl for 1.5 µl tubes). Slowly dispense the 70% ethanol against the side of the tube opposite the beads. Do not disturb the bead pellet.
+	Use a sufficient volume of 70% ethanol to completely cover the bead pellet (e.g., 100 µl for microplates and 400 µl for 1.5 ml tubes). Slowly dispense the 70% ethanol against the side of the tube opposite the beads. Do not disturb the bead pellet.
 
 7. Repeat step 6 above.
 
